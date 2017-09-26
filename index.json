@@ -1,6 +1,9 @@
 [
   {
     "term": "process",
+    "aka": [
+      "method"
+    ],
     "definition": "an act, or a series of acts or steps"
   },
   {
