@@ -1,6 +1,6 @@
 {
   "name": "us-patent-categories",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "description": "list of United States patent subject matter categories",
   "author": "Kyle E. Mitchell <kyle@kemitchell.com> (https://kemitchell.com/)",
   "repository": "kemitchell/us-patent-categories.json"
